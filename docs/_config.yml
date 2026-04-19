@@ -1,0 +1,4 @@
+﻿title: "Alpha: TD Exhaustion (L5/S5)"
+theme: minima
+plugins:
+  - jekyll-seo-tag
